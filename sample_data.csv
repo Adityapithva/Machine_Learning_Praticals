@@ -1,0 +1,6 @@
+Name,Age,City,Score
+John,28.0,New York,85.0
+Anna,24.0,Paris,90.0
+Mike,,Berlin,
+Sara,22.0,,88.0
+,25.0,London,92.0
